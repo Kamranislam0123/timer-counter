@@ -21,14 +21,15 @@ h1 {
     font-size: 4rem;
     margin-top: 5rem;
     margin-left: 10px;
-    color:skyblue;
+    color:darkorange;
 }
 
 .countdown-container {
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
-    color: black;
+    color:white;
+    
 }
 
 .big-text {
