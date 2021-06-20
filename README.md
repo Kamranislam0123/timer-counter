@@ -1,2 +1,2 @@
-# timer-counter
+# Time-Counter
  Time Counter
